@@ -3,6 +3,7 @@ on:
   push:
     branches: [main] # o master, controlla come si chiama il tuo branch principale
 
+
   # Permette di avviare il sync anche manualmente
   workflow_dispatch:
 
